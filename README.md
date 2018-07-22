@@ -63,7 +63,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 
-######国外博客
+###### 国外博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |------|
 |[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| # |业界权威，web 设计很赞|
